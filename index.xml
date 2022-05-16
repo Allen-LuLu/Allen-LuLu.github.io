@@ -5,11 +5,12 @@
     <link>https://allen-lulu.github.io/</link>
     <description>Recent content on 游鱼的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://allen-lulu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 15 May 2022 22:40:08 +0800</lastBuildDate><atom:link href="https://allen-lulu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://allen-lulu.github.io/post/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 May 2022 22:40:08 +0800</pubDate>
       
       <guid>https://allen-lulu.github.io/post/hello/</guid>
       <description>this is my first blog</description>

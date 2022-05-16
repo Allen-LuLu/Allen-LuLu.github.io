@@ -5,6 +5,16 @@
     <link>https://allen-lulu.github.io/tags/</link>
     <description>Recent content in Tags on 游鱼的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://allen-lulu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 15 May 2022 22:40:08 +0800</lastBuildDate><atom:link href="https://allen-lulu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go语言</title>
+      <link>https://allen-lulu.github.io/tags/go%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Sun, 15 May 2022 22:40:08 +0800</pubDate>
+      
+      <guid>https://allen-lulu.github.io/tags/go%E8%AF%AD%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
