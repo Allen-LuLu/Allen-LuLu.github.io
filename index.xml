@@ -6,7 +6,16 @@
     <description>Recent content on 游鱼的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 May 2022 22:40:08 +0800</lastBuildDate><atom:link href="https://allen-lulu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 22:14:08 +0800</lastBuildDate><atom:link href="https://allen-lulu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>买卖股票的最佳时机</title>
+      <link>https://allen-lulu.github.io/post/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8/</link>
+      <pubDate>Mon, 16 May 2022 22:14:08 +0800</pubDate>
+      
+      <guid>https://allen-lulu.github.io/post/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8/</guid>
+      <description>一、买卖股票的最佳时机（限定买卖次数为1次） 问题：121. 买卖股票的最佳时机 分析 动规五部曲 分析dp数组的含义：在股票问题中，首先要根据题目分析题目会有几种状态！ 本题中，股票一共有两种状态 持有股票 不持有股票 故，本题的dp数组对于每个i有两个状态 dp[i][0]：在第i天仍持有股票时</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://allen-lulu.github.io/post/hello/</link>
